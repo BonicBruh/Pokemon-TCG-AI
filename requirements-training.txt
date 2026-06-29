@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+pandas>=2.0,<3
+torch>=2.2
+kaggle>=1.8
+tqdm>=4.66
+pytest>=8

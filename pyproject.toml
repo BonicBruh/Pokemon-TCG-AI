@@ -1,0 +1,10 @@
+[project]
+name = "pokemon-tcg-ai-ppo"
+version = "0.1.0"
+description = "PPO agent for Kaggle's CABT Pokémon TCG environment"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "torch>=2.2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

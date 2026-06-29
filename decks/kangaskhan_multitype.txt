@@ -1,0 +1,29 @@
+Pokémon: 22
+4 Mega Kangaskhan ex (756)
+4 Meowth ex (1071)
+4 Lillie's Clefairy ex (272)
+3 Latias ex (184)
+2 Wellspring Mask Ogerpon ex (108)
+2 Fezandipiti ex (140)
+1 Moltres (791)
+1 Chien-Pao (209)
+1 Koraidon ex (979)
+
+Trainer: 28
+4 Crispin (1198)
+3 Boss's Orders (1182)
+2 Ciphermaniac's Codebreaking (1188)
+1 Cyrano (1205)
+4 Ultra Ball (1121)
+4 Dusk Ball (1102)
+3 Wondrous Patch (1146)
+1 Prime Catcher (1088)
+2 Lillie's Pearl (1172)
+4 Area Zero Underdepths (1250)
+
+Energy: 10
+4 Basic Psychic Energy (5)
+2 Basic Water Energy (3)
+2 Basic Fighting Energy (6)
+1 Telepath Psychic Energy (19)
+1 Basic Fire Energy (2)
